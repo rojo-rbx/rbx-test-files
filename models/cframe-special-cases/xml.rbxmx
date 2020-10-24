@@ -1,0 +1,533 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="CFrameValue" referent="RBX33AAD1B36B75424F855CC303FFCE45FE">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">02</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXC7E4C283A5CB4C44B2B74BD087FC3AA2">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">03</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>-1</R12>
+				<R20>0</R20>
+				<R21>1</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX36DB20CE99424B16971EE9C714EE83C5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">05</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>-1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>-1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX57EE98BD34E9430F95C6DB00A623FC61">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">06</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>-0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>1</R12>
+				<R20>0</R20>
+				<R21>-1</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX3C24EF42D3BD4ECA8F473C288B8C9058">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">07</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>1</R01>
+				<R02>0</R02>
+				<R10>1</R10>
+				<R11>0</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>-1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX60D5D5E3DC8449ECAE78AAC581DF8947">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">09</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>1</R02>
+				<R10>1</R10>
+				<R11>0</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>1</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX2D6F3A24198D4F318942836B6C7AD491">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">0a</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>-1</R01>
+				<R02>0</R02>
+				<R10>1</R10>
+				<R11>0</R11>
+				<R12>-0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXA3DF9B1BF0A946BDB86BF3C81A0D6602">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">0c</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>-1</R02>
+				<R10>1</R10>
+				<R11>0</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>-1</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX1AA5B68FA5854CC1862EC8CBC2A0218E">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">0d</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>1</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>1</R12>
+				<R20>1</R20>
+				<R21>0</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX7F53AC4D7F3A489791A796C8C98AA28D">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">0e</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>-1</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>1</R20>
+				<R21>0</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXF66549CAA82A44DC92BD9BC7F78FCE35">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">10</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>-1</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>-1</R12>
+				<R20>1</R20>
+				<R21>0</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX7A6793F831A84470810210280E928713">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">11</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>1</R02>
+				<R10>0</R10>
+				<R11>-1</R11>
+				<R12>0</R12>
+				<R20>1</R20>
+				<R21>0</R21>
+				<R22>-0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXA2A0594940924F448E58379392982245">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">14</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>-1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>-1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX2726885D28AD44FBBE8E7EC1EA2FBDE3">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">15</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>-1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>1</R12>
+				<R20>0</R20>
+				<R21>1</R21>
+				<R22>-0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX179CE19191F34D3C9CFAD2494452C4AA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">17</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>-1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>-1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX69406B62C74142B98295BC3A552DE2EA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">18</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>-1</R00>
+				<R01>0</R01>
+				<R02>-0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>-1</R12>
+				<R20>0</R20>
+				<R21>-1</R21>
+				<R22>-0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXC7FA4BCA27EA42B282C5B5E734A99A9F">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">19</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>1</R01>
+				<R02>-0</R02>
+				<R10>-1</R10>
+				<R11>0</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXA72EECAA01954BD8BD68337F799459D8">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">1b</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>-1</R02>
+				<R10>-1</R10>
+				<R11>0</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>1</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX729FC95042934C8C905C554BA94B07C8">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">1c</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>-1</R01>
+				<R02>-0</R02>
+				<R10>-1</R10>
+				<R11>0</R11>
+				<R12>-0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>-1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXDA20C0873ADD442C9BC0728573C88933">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">1e</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>1</R02>
+				<R10>-1</R10>
+				<R11>0</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>-1</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX584438E507504E43A6AF733B1C300457">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">1f</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>1</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>-1</R12>
+				<R20>-1</R20>
+				<R21>0</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBXDFA088E9C630466AAB6B109F8AA4E590">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">20</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>1</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>-0</R12>
+				<R20>-1</R20>
+				<R21>0</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX1D7614476B9443CCA3EB1CA370E0CF9D">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">22</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>-1</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>0</R11>
+				<R12>1</R12>
+				<R20>-1</R20>
+				<R21>0</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX4FAA8FC2E5ED4D3FAA6F02BC2C85C6D0">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">23</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>-1</R02>
+				<R10>0</R10>
+				<R11>-1</R11>
+				<R12>-0</R12>
+				<R20>-1</R20>
+				<R21>0</R21>
+				<R22>-0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+</roblox>
