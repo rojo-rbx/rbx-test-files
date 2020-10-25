@@ -1,0 +1,49 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="CFrameValue" referent="RBXA071D8E6419C4404B91E0C36899C2EA8">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">1, 2, 3, 4, 5, 6, -1, -2, -3, -4, -5, -6</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>1</X>
+				<Y>2</Y>
+				<Z>3</Z>
+				<R00>4</R00>
+				<R01>5</R01>
+				<R02>6</R02>
+				<R10>-1</R10>
+				<R11>-2</R11>
+				<R12>-3</R12>
+				<R20>-4</R20>
+				<R21>-5</R21>
+				<R22>-6</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX17F887E3DFFE4795B92492C115AED292">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">0.15625, -0.15625, 0.1, -0.1, 0, 0, 1337, -1337, inf, -inf, nan, nan</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0.15625</X>
+				<Y>-0.15625</Y>
+				<Z>0.100000001</Z>
+				<R00>-0.100000001</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>1337</R10>
+				<R11>-1337</R11>
+				<R12>INF</R12>
+				<R20>-INF</R20>
+				<R21>NAN</R21>
+				<R22>NAN</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+</roblox>
