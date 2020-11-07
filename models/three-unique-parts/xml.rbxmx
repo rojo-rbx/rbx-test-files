@@ -2,7 +2,7 @@
 	<Meta name="ExplicitAutoJoints">true</Meta>
 	<External>null</External>
 	<External>nil</External>
-	<Item class="Part" referent="RBXE4FA4DAECB534CFA8BB60A244FB1161A">
+	<Item class="Part" referent="RBXD1B98657BBF64E86BE278F632E9BC063">
 		<Properties>
 			<bool name="Anchored">false</bool>
 			<BinaryString name="AttributesSerialize"></BinaryString>
@@ -58,6 +58,7 @@
 				<Y>0</Y>
 				<Z>0</Z>
 			</Vector3>
+			<int64 name="SourceAssetId">-1</int64>
 			<BinaryString name="Tags"></BinaryString>
 			<float name="TopParamA">-0.5</float>
 			<float name="TopParamB">0.5</float>
@@ -78,7 +79,7 @@
 			</Vector3>
 		</Properties>
 	</Item>
-	<Item class="Part" referent="RBX1CED49BCA5694361941CA53D177C9915">
+	<Item class="Part" referent="RBXEA60B6CEA74C448DBAC338302E996316">
 		<Properties>
 			<bool name="Anchored">false</bool>
 			<BinaryString name="AttributesSerialize"></BinaryString>
@@ -109,7 +110,12 @@
 			<int name="CollisionGroupId">0</int>
 			<Color3uint8 name="Color3uint8">4281099549</Color3uint8>
 			<PhysicalProperties name="CustomPhysicalProperties">
-				<CustomPhysics>false</CustomPhysics>
+				<CustomPhysics>true</CustomPhysics>
+				<Density>0.699999988</Density>
+				<Friction>0.300000012</Friction>
+				<Elasticity>0.5</Elasticity>
+				<FrictionWeight>1</FrictionWeight>
+				<ElasticityWeight>1</ElasticityWeight>
 			</PhysicalProperties>
 			<float name="FrontParamA">-0.5</float>
 			<float name="FrontParamB">0.5</float>
@@ -134,6 +140,7 @@
 				<Y>0</Y>
 				<Z>0</Z>
 			</Vector3>
+			<int64 name="SourceAssetId">-1</int64>
 			<BinaryString name="Tags"></BinaryString>
 			<float name="TopParamA">-0.5</float>
 			<float name="TopParamB">0.5</float>
@@ -154,7 +161,7 @@
 			</Vector3>
 		</Properties>
 	</Item>
-	<Item class="Part" referent="RBXE9626B9BCE40466D8DC434B56E245D15">
+	<Item class="Part" referent="RBX3C7615EE664C45AFBB9C9CAE13EF4FDF">
 		<Properties>
 			<bool name="Anchored">false</bool>
 			<BinaryString name="AttributesSerialize"></BinaryString>
@@ -185,7 +192,12 @@
 			<int name="CollisionGroupId">0</int>
 			<Color3uint8 name="Color3uint8">4294901951</Color3uint8>
 			<PhysicalProperties name="CustomPhysicalProperties">
-				<CustomPhysics>false</CustomPhysics>
+				<CustomPhysics>true</CustomPhysics>
+				<Density>90.6600037</Density>
+				<Friction>1.44000006</Friction>
+				<Elasticity>0.649999976</Elasticity>
+				<FrictionWeight>50.5</FrictionWeight>
+				<ElasticityWeight>40.5</ElasticityWeight>
 			</PhysicalProperties>
 			<float name="FrontParamA">-0.5</float>
 			<float name="FrontParamB">0.5</float>
@@ -210,6 +222,7 @@
 				<Y>0</Y>
 				<Z>0</Z>
 			</Vector3>
+			<int64 name="SourceAssetId">-1</int64>
 			<BinaryString name="Tags"></BinaryString>
 			<float name="TopParamA">-0.5</float>
 			<float name="TopParamB">0.5</float>

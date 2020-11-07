@@ -1,6 +1,6 @@
 # three-unique-parts
-* Roblox Studio version: 0.413.0.368698
+* Roblox Studio version: 0.455.0.413788
 
-Contains three parts with unique names, colors, positions, and sizes.
+Contains three parts with unique names, colors, positions, physical properties, and sizes.
 
 ![expected output](expected.png)
