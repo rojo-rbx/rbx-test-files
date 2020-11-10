@@ -1,0 +1,53 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="UIGradient" referent="RBXE9B09A686C7E494093C563C29FC45EF0">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<ColorSequence name="Color">0 1 1 1 0 1 1 1 1 0 </ColorSequence>
+			<bool name="Enabled">true</bool>
+			<string name="Name">UIGradient</string>
+			<Vector2 name="Offset">
+				<X>0</X>
+				<Y>0</Y>
+			</Vector2>
+			<float name="Rotation">0</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<NumberSequence name="Transparency">0 0.5 0 0.2 0.75 0 0.5 0 0 0.6 0.8 0 1 1 0 </NumberSequence>
+		</Properties>
+	</Item>
+	<Item class="UIGradient" referent="RBX8FD2563AC6A641028A6EA8D51DCC285D">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<ColorSequence name="Color">0 1 1 1 0 1 1 1 1 0 </ColorSequence>
+			<bool name="Enabled">true</bool>
+			<string name="Name">UIGradient</string>
+			<Vector2 name="Offset">
+				<X>0</X>
+				<Y>0</Y>
+			</Vector2>
+			<float name="Rotation">0</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<NumberSequence name="Transparency">0 0 0 0.5 1 0 1 0 0 </NumberSequence>
+		</Properties>
+	</Item>
+	<Item class="UIGradient" referent="RBX54CC8630823B40D68B85C91E92969E03">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<ColorSequence name="Color">0 1 1 1 0 1 1 1 1 0 </ColorSequence>
+			<bool name="Enabled">true</bool>
+			<string name="Name">UIGradient</string>
+			<Vector2 name="Offset">
+				<X>0</X>
+				<Y>0</Y>
+			</Vector2>
+			<float name="Rotation">0</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<NumberSequence name="Transparency">0 0 0 1 0 0 </NumberSequence>
+		</Properties>
+	</Item>
+</roblox>
