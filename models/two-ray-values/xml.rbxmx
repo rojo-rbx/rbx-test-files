@@ -1,0 +1,45 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="RayValue" referent="RBXE9CF3A8102064084A8026CB0CB26F534">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">{1, 2, 3}, {-4, -5, -6}</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<Ray name="Value">
+				<origin>
+					<X>1</X>
+					<Y>2</Y>
+					<Z>3</Z>
+				</origin>
+				<direction>
+					<X>-4</X>
+					<Y>-5</Y>
+					<Z>-6</Z>
+				</direction>
+			</Ray>
+		</Properties>
+	</Item>
+	<Item class="RayValue" referent="RBXB27F15A9F7B046D0BCEC6379BE5E24E2">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">{inf, -inf, nan}, {0.5, 0.15625, 0.1}</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<Ray name="Value">
+				<origin>
+					<X>INF</X>
+					<Y>-INF</Y>
+					<Z>NAN</Z>
+				</origin>
+				<direction>
+					<X>0.5</X>
+					<Y>0.15625</Y>
+					<Z>0.100000001</Z>
+				</direction>
+			</Ray>
+		</Properties>
+	</Item>
+</roblox>
