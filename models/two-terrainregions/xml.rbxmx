@@ -1,0 +1,43 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="TerrainRegion" referent="RBX93BFBCC45EC94C2B96C93B2DDD83C007">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Vector3int16 name="ExtentsMax">
+				<X>1</X>
+				<Y>2</Y>
+				<Z>3</Z>
+			</Vector3int16>
+			<Vector3int16 name="ExtentsMin">
+				<X>1</X>
+				<Y>2</Y>
+				<Z>3</Z>
+			</Vector3int16>
+			<string name="Name">Region 1</string>
+			<BinaryString name="SmoothGrid">AQU=</BinaryString>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="TerrainRegion" referent="RBX6210A15755E4481BAD4D8922CE7EB4A7">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Vector3int16 name="ExtentsMax">
+				<X>1337</X>
+				<Y>100</Y>
+				<Z>9001</Z>
+			</Vector3int16>
+			<Vector3int16 name="ExtentsMin">
+				<X>-1337</X>
+				<Y>-100</Y>
+				<Z>-9001</Z>
+			</Vector3int16>
+			<string name="Name">Region 2</string>
+			<BinaryString name="SmoothGrid">AQU=</BinaryString>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+</roblox>
