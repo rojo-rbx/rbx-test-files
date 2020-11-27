@@ -11,9 +11,9 @@
 				<Z>3</Z>
 			</Vector3int16>
 			<Vector3int16 name="ExtentsMin">
-				<X>1</X>
-				<Y>2</Y>
-				<Z>3</Z>
+				<X>-1</X>
+				<Y>-2</Y>
+				<Z>-3</Z>
 			</Vector3int16>
 			<string name="Name">Region 1</string>
 			<BinaryString name="SmoothGrid">AQU=</BinaryString>
