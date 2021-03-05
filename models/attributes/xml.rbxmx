@@ -1,0 +1,20 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Folder" referent="RBX10E3276249364E44B1EBE3BF36E14C1D">
+		<Properties>
+			<BinaryString name="AttributesSerialize"><![CDATA[DQAAAA0AAABDb2xvclNlcXVlbmNlGQMAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAA/
+AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8HAAAAVmVjdG9yMxEAAIA/AAAAQAAA
+QEAHAAAAVmVjdG9yMhAAACBBAABIQg4AAABOdW1iZXJTZXF1ZW5jZRcDAAAAAAAAAAAAAAAA
+AIA/AAAAAAAAAD8AAAAAAAAAAAAAgD8AAIA/BgAAAENvbG9yMw+joiI/AAAAAAAAgD8KAAAA
+QnJpY2tDb2xvcg7sAwAABAAAAFJlY3QcAACAPwAAAEAAAEBAAACAQAUAAABVRGltMgoAAAA/
+CgAAADMzMz8eAAAABAAAAFVEaW0JAAAAP2QAAAALAAAATnVtYmVyUmFuZ2UbAACgQAAAIEEG
+AAAATnVtYmVyBgAAAACAHMhABwAAAEJvb2xlYW4DAQYAAABTdHJpbmcCDQAAAEhlbGxvLCB3
+b3JsZCE=]]></BinaryString>
+			<string name="Name">Folder</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+</roblox>
