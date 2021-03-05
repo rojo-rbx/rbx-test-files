@@ -14,3 +14,5 @@ A folder with the following attributes:
 - UDim2: `{0.5, 10}, {0.7, 30}`
 - Vector2: `10, 50`
 - Vector3: `1, 2, 3`
+- Infinity: `math.huge`
+- NaN: `0/0`
