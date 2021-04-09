@@ -40,7 +40,7 @@
 				<Y>0</Y>
 				<Z>0</Z>
 			</Vector3>
-			<string name="Name">Default (1, -1, 0.5, 0.0629472509, 0.403198004, 0.912945271, 0.752418458, -0.620145321, 0.222005263,</string>
+			<string name="Name">Default (0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1)</string>
 			<bool name="NeedsPivotMigration">false</bool>
 			<Ref name="PrimaryPart">null</Ref>
 			<int64 name="SourceAssetId">-1</int64>
