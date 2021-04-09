@@ -2,7 +2,7 @@
 	<Meta name="ExplicitAutoJoints">true</Meta>
 	<External>null</External>
 	<External>nil</External>
-	<Item class="Model" referent="RBX18F4835B4E9E407AB14C5932033F436B">
+	<Item class="Model" referent="RBXA33CCC792D7B49F4818C08658726A23E">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<token name="LevelOfDetail">0</token>
@@ -40,15 +40,30 @@
 				<Y>0</Y>
 				<Z>0</Z>
 			</Vector3>
-			<string name="Name">Default (0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1)</string>
+			<string name="Name">Some</string>
 			<bool name="NeedsPivotMigration">false</bool>
 			<Ref name="PrimaryPart">null</Ref>
 			<int64 name="SourceAssetId">-1</int64>
 			<BinaryString name="Tags"></BinaryString>
-			<OptionalCoordinateFrame name="WorldPivotInternal"></OptionalCoordinateFrame>
+			<OptionalCoordinateFrame name="WorldPivotInternal">
+				<CFrame>
+					<X>1</X>
+					<Y>-1</Y>
+					<Z>0.5</Z>
+					<R00>0.0629472509</R00>
+					<R01>0.403198004</R01>
+					<R02>0.912945271</R02>
+					<R10>0.752418458</R10>
+					<R11>-0.620145321</R11>
+					<R12>0.222005263</R12>
+					<R20>0.655670762</R20>
+					<R21>0.672942221</R21>
+					<R22>-0.342410028</R22>
+				</CFrame>
+			</OptionalCoordinateFrame>
 		</Properties>
 	</Item>
-	<Item class="Model" referent="RBX36580717B19A42ABA24A74368729AF57">
+	<Item class="Model" referent="RBX4E88C88F0FDA4439A64E141DFCF9DB4D">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<token name="LevelOfDetail">0</token>
@@ -86,7 +101,7 @@
 				<Y>0</Y>
 				<Z>0</Z>
 			</Vector3>
-			<string name="Name">-0.5, INF, NAN, 1, 0, 0, 0, 1, 0, 0, 0, 1</string>
+			<string name="Name">SomeInfNaN</string>
 			<bool name="NeedsPivotMigration">false</bool>
 			<Ref name="PrimaryPart">null</Ref>
 			<int64 name="SourceAssetId">-1</int64>
@@ -109,7 +124,7 @@
 			</OptionalCoordinateFrame>
 		</Properties>
 	</Item>
-	<Item class="Model" referent="RBXDCDD59692C74424EBA46F3E32FAD6C00">
+	<Item class="Model" referent="RBX6EA43275BE094791ACB4936D896003AC">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<token name="LevelOfDetail">0</token>
@@ -147,27 +162,12 @@
 				<Y>0</Y>
 				<Z>0</Z>
 			</Vector3>
-			<string name="Name">1, -1, 0.5, 0.0629472509, 0.403198004, 0.912945271, 0.752418458, -0.620145321, 0.222005263, 0.655670</string>
+			<string name="Name">None</string>
 			<bool name="NeedsPivotMigration">false</bool>
 			<Ref name="PrimaryPart">null</Ref>
 			<int64 name="SourceAssetId">-1</int64>
 			<BinaryString name="Tags"></BinaryString>
-			<OptionalCoordinateFrame name="WorldPivotInternal">
-				<CFrame>
-					<X>1</X>
-					<Y>-1</Y>
-					<Z>0.5</Z>
-					<R00>0.0629472509</R00>
-					<R01>0.403198004</R01>
-					<R02>0.912945271</R02>
-					<R10>0.752418458</R10>
-					<R11>-0.620145321</R11>
-					<R12>0.222005263</R12>
-					<R20>0.655670762</R20>
-					<R21>0.672942221</R21>
-					<R22>-0.342410028</R22>
-				</CFrame>
-			</OptionalCoordinateFrame>
+			<OptionalCoordinateFrame name="WorldPivotInternal"></OptionalCoordinateFrame>
 		</Properties>
 	</Item>
 	<SharedStrings>
