@@ -1,0 +1,43 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="StyleSheet" referent="RBX312e79aa72844460aabb2c404fccc5f0">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">StyleSheet</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+		<Item class="StyleRule" referent="RBX6b4902e768e84598a157b86d82a1bc44">
+			<Properties>
+				<int name="Priority">0</int>
+				<BinaryString name="PropertiesSerialize">AQAAAAQAAABTaXplCgAAgD8AAAAAAAAAPwAAAAA=</BinaryString>
+				<BinaryString name="PropertyTransitionsSerialize">AgABAAAABAAAAFNpemUkzcxMPgAAAAAAAAAACAAAAAEAAAAA</BinaryString>
+				<string name="Selector">Frame</string>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">Frame</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+			</Properties>
+			<Item class="StyleRule" referent="RBX739dbf181dca4b19b9703373a5815f90">
+				<Properties>
+					<int name="Priority">0</int>
+					<BinaryString name="PropertiesSerialize">AQAAAAQAAABTaXplCgAAgD8AAAAAmplZPwAAAAA=</BinaryString>
+					<BinaryString name="PropertyTransitionsSerialize">AgAAAAAA</BinaryString>
+					<string name="Selector">:hover</string>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">:hover</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+</roblox>
