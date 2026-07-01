@@ -6,7 +6,4 @@ A place file created when pressing File -> New in Roblox Studio, then duplicatin
 * Second Baseplate: atag
 * Workspace: hmmmm
 
-The place file was then obtained by interacting with the following endpoint:
-`https://apis.roblox.com/asset-delivery-api/v1/assetId/{placeId}`
-
-As Roblox Studio did not yet save Tags in this format at the time of this writing.
+Roblox Studio began writing `Instance.Tags` as a `SharedString` property rather than as a `String`/`BinaryString` property on 2026-07-01.
