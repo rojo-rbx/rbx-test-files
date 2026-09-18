@@ -1,0 +1,27 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Folder" referent="RBX1E2095E38EC64405A4FEA330FEE51D78">
+		<Properties>
+			<Color3 name="IconTint">
+				<R>0</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+			<BinaryString name="AttributesSerialize"><![CDATA[BgAAAAoAAABEb2NFeGFtcGxlJAAAwD8AANBABAAAAAEAAAACAAAAAAsAAABGYXN0UXVhZE91
+dCRvEoM8zczMPQoAAAACAAAAAAAAAAEPAAAARnJhY3Rpb25hbFF1YXJ0JAAAAD4AAMA+AQAA
+AAQAAAABAAAAAQ4AAABJbmZpbml0ZVJlcGVhdCQAAIA+AAAAP/////8AAAAAAQAAAAEOAAAA
+TG9uZ0N1YmljRGVsYXkkAAAgQAAATEEDAAAAAwAAAAIAAAAACgAAAFplcm9WYWx1ZXMkAAAA
+AAAAAAAAAAAAAAAAAAAAAAAA]]></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">TweenInfoAttributes</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		</Properties>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="yuZpQdnvvUBOTYh1jqZ2cA=="></SharedString>
+	</SharedStrings>
+</roblox>
